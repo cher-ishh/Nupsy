@@ -3,7 +3,7 @@
 AI 기반 대화형 NPC가 있는 MiniRPG 게임입니다.
 
 ## 실행 방법
-1. 아래 파일을 모두 다운로드합니다:
+1. 아래 파일을 다운로드합니다:
    - `MiniRPG.exe`
    - `MiniRPG_Data.zip`
    - `UnityPlayer.zip`
