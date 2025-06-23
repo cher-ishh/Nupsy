@@ -16,4 +16,4 @@ AI 기반 대화형 NPC가 있는 MiniRPG 게임입니다.
 
 ## 참고
 Unity 빌드: Windows용 Standalone  
-해상도: 1920x1080 권장
+해상도: 1920x1080
